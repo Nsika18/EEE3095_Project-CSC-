@@ -1,0 +1,16 @@
+../Core/Src/game.c:32:6:Game_Init	8	static
+../Core/Src/game.c:45:12:Game_Connect	8	static
+../Core/Src/game.c:56:12:Game_Disconnect	8	static
+../Core/Src/game.c:69:12:Game_New	8	static
+../Core/Src/game.c:81:12:Game_Move	32	static
+../Core/Src/game.c:108:12:Game_Resign	24	static
+../Core/Src/game.c:121:12:Game_State	8	static
+../Core/Src/game.c:129:13:Game_GetState	8	static
+../Core/Src/game.c:130:13:Game_GetTurn	8	static
+../Core/Src/game.c:131:13:Game_GetOutcome	8	static
+../Core/Src/game.c:132:13:Game_IsConnected	8	static
+../Core/Src/game.c:134:6:Game_EncodeBoard	24	static
+../Core/Src/game.c:149:13:reset_board	16	static
+../Core/Src/game.c:156:19:opponent	16	static
+../Core/Src/game.c:161:19:find_winner	32	static
+../Core/Src/game.c:178:16:board_full	24	static

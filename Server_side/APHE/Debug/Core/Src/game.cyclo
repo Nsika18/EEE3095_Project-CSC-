@@ -1,0 +1,16 @@
+../Core/Src/game.c:32:6:Game_Init	1
+../Core/Src/game.c:45:12:Game_Connect	2
+../Core/Src/game.c:56:12:Game_Disconnect	2
+../Core/Src/game.c:69:12:Game_New	3
+../Core/Src/game.c:81:12:Game_Move	8
+../Core/Src/game.c:108:12:Game_Resign	4
+../Core/Src/game.c:121:12:Game_State	2
+../Core/Src/game.c:129:13:Game_GetState	1
+../Core/Src/game.c:130:13:Game_GetTurn	1
+../Core/Src/game.c:131:13:Game_GetOutcome	1
+../Core/Src/game.c:132:13:Game_IsConnected	1
+../Core/Src/game.c:134:6:Game_EncodeBoard	4
+../Core/Src/game.c:149:13:reset_board	2
+../Core/Src/game.c:156:19:opponent	2
+../Core/Src/game.c:161:19:find_winner	5
+../Core/Src/game.c:178:16:board_full	3

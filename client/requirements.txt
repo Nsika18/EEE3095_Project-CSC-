@@ -1,0 +1,14 @@
+# Install from the repo root:  pip install -r client/requirements.txt
+#
+# Tkinter (the GUI toolkit) ships with Python, it is not installed by pip.
+#   Windows / macOS (python.org installer): already included
+#   Debian / Ubuntu / Raspberry Pi OS:      sudo apt install python3-tk
+
+pyserial>=3.5             # serial port access (GameLink)
+
+pytest>=7.0               # test runner; pytest.ini uses the `pythonpath` option
+pytest-timeout>=2.1       # a silent board fails a test instead of hanging it
+pytest-html>=4.0          # self-contained HTML test report for the Validation section
+pytest-cov>=4.0           # coverage figures for the simulator/client code
+
+ruff>=0.4                

@@ -1,0 +1,4 @@
+../Core/Src/hardware.c:34:9:sensor_read	2
+../Core/Src/hardware.c:44:6:led_conn_set	1
+../Core/Src/hardware.c:53:6:led_game_set	1
+../Core/Src/hardware.c:61:6:led_game_toggle	1
